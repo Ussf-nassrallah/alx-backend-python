@@ -8,5 +8,6 @@ import math
 
 
 def floor(n: float) -> int:
+    """ floor function should return an int """
     result: int = int(math.floor(n))
     return result
